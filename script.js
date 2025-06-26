@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const portfolioDataUrl = 'https://raw.githubusercontent.com/srivastava-ami/amxfolio/refs/heads/main/portfolio.json'
+    const portfolioDataUrl = 'https://raw.githubusercontent.com/srivastava-ami/srivastava-ami.github.io/refs/heads/main/portfolio.json'
     fetch(portfolioDataUrl)
         .then(response => {
             if (!response.ok) {
