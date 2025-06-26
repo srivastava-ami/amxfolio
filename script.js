@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('portfolio.json')
+    const portfolioDataUrl = 'https://raw.githubusercontent.com/srivastava-ami/amxfolio/refs/heads/main/portfolio.json'
+    fetch(portfolioDataUrl)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
