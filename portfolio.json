@@ -1,0 +1,212 @@
+{
+  "personal": {
+    "name": "Amit Srivastava",
+    "title": "Global Implementation Manager & Solutions Architect",
+    "location": "Sacramento, CA",
+    "email": "amitkumar.srivastava42@gmail.com",
+    "linkedin": "https://linkedin.com/in/srivastava-ami",
+    "github": "https://github.com/srivastava-ami",
+    "tagline": "AI-Driven Automation & Digital Transformation Leader",
+    "summary": "A results-driven Global Implementation Manager and Solutions Architect with over a decade of experience in AI-driven automation, SaaS solutions, and digital transformation. Recognized for strategic vision and thought leadership, I have led cross-functional and global teams to deliver scalable, enterprise-grade technology solutions. Adept at driving organizational change, mentoring talent, and fostering a culture of innovation, I have consistently delivered measurable business value through AI and automation initiatives. My work includes successful implementation of predictive analytics, AI-powered chatbots, and workflow automation that have resulted in significant revenue growth, cost savings, and enhanced customer satisfaction. I am committed to continuous learning and staying at the forefront of emerging AI trends and responsible AI practices.",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D5603AQHJWLjtR34y1A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719975898008?e=1756339200&v=beta&t=sBDB-QeUnV9kOG-YyhkJSLQJCjFt4QeQbbVdeuQLJm4"
+  },
+  "highlights": [
+    {
+      "metric": "$1M+",
+      "description": "Additional revenue generated through AI-driven automation and workflow optimization",
+      "icon": "💰"
+    },
+    {
+      "metric": "95%",
+      "description": "Software release process automation, reducing manual errors by 60%",
+      "icon": "🚀"
+    },
+    {
+      "metric": "40%",
+      "description": "Reduction in critical support escalations through predictive analytics",
+      "icon": "📈"
+    },
+    {
+      "metric": "35%",
+      "description": "Customer service cost reduction via AI-powered chatbots",
+      "icon": "🤖"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Keywords US Holdings Inc | Helpshift",
+      "position": "Global Implementation Manager",
+      "duration": "Jan 2024 - Present",
+      "location": "US",
+      "type": "current",
+      "achievements": [
+        "Standardized product implementation frameworks across all Helpshift support desk solutions, improving deployment speed and consistency.",
+        "Led a cross-functional team of 15+ engineers, product managers, and support specialists across multiple regions.",
+        "Drove organizational change by introducing AI-driven process improvements, resulting in a 20% reduction in onboarding time for new clients.",
+        "Mentored junior leaders and facilitated knowledge-sharing sessions to upskill teams in AI/ML best practices.",
+        "Presented at industry conferences on digital transformation and AI adoption in customer support."
+      ],
+    "technologies": ["AI/ML", "Salesforce", "Zendesk", "Jira", "Slack", "Generative AI"]
+},
+    {
+      "company": "Keywords US Holdings Inc | Helpshift",
+      "position": "Solutions Architect",
+      "duration": "MAY 2021 - DEC 2023",
+      "location": "US",
+      "type": "previous",
+      "achievements": [
+        "Accelerated customer onboarding by 18%, streamlining SaaS adoption for enterprise clients",
+        "Designed and launched a $1M revenue-generating AI-driven automation tool",
+        "Developed custom API connectors reducing integration setup time by 50%",
+        "Optimized collaboration between product, engineering, and support teams"
+      ],
+      "technologies": ["AWS", "Azure", "Python", "API Development", "Salesforce", "Zendesk"]
+    },
+    {
+      "company": "Helpshift Technologies Pvt. Ltd.",
+      "position": "Sr. Technical Support Engineer",
+      "duration": "FEB 2019 - APRIL 2021",
+      "location": "India",
+      "type": "previous",
+      "achievements": [
+        "Developed Python automation tools, reducing manual support workload by 40%",
+        "Served as primary SDK integration expert for iOS and Android platforms",
+        "Standardized internal documentation and built training modules",
+        "Created in-depth training & mentorship programs"
+      ],
+      "technologies": ["Python", "iOS SDK", "Android SDK", "Documentation", "Training"]
+    },
+    {
+      "company": "Synacor Inc | Zimbra",
+      "position": "Software Engineer",
+      "duration": "AUG 2018 - FEB 2019",
+      "location": "India",
+      "type": "previous",
+      "achievements": [
+        "Automated 95% of the release process, cutting deployment errors by 60%",
+        "Migrated legacy components to modern cloud infrastructure",
+        "Enhanced performance benchmarking, reducing regression failures by 35%"
+      ],
+      "technologies": ["Apache", "Oracle JDK", "Ubuntu", "Cloud Infrastructure", "QA"]
+    },
+    {
+      "company": "Zimbra India Pvt. Ltd.",
+      "position": "Technical Support Engineer",
+      "duration": "DEC 2015 - JULY 2018",
+      "location": "India",
+      "type": "previous",
+      "achievements": [
+        "Resolved high-priority escalations for enterprise clients ranging from 20,000 to over 1 million users",
+        "Improved email infrastructure uptime to 99.9%",
+        "Built technical training programs, reducing ramp-up time by 25%"
+      ],
+      "technologies": ["Email Infrastructure", "Enterprise Support", "Training", "Automation"]
+    }
+  ],
+  "skills": {
+    "leadership": [
+      "Strategic Planning",
+      "AI/ML Integration",
+      "Enterprise Digital Transformation",
+      "Customer Experience Automation",
+      "Cross-Functional Team Leadership",
+      "Digital Strategy Execution"
+    ],
+    "ai_automation": [
+      "AI-Driven Process Optimization",
+      "Smart Workflow Automation",
+      "Predictive Analytics",
+      "AI-Powered Chatbots",
+      "Large Language Model (LLM) Deployment",
+      "Generative AI Implementation"
+    ],
+    "programming": [
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "API Development",
+      "Asynchronous Programming",
+      "Shell Scripting",
+      "Bash",
+      "Microservices"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "Infrastructure Management",
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes"
+    ],
+    "databases": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Oracle SQL",
+      "Google BigQuery",
+      "Azure Synapse"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Jira",
+      "Salesforce",
+      "Zendesk",
+      "Slack",
+      "Jenkins",
+      "Prometheus",
+      "Grafana"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "type": "cloud"
+    },
+    {
+      "name": "Microsoft Azure Fundamentals",
+      "issuer": "Microsoft",
+      "type": "cloud"
+    },
+    {
+      "name": "Red Hat Certified Engineer (RHCE)",
+      "issuer": "Red Hat",
+      "type": "system"
+    },
+    {
+      "name": "Oracle Database SQL Certified Expert",
+      "issuer": "Oracle",
+      "type": "database"
+    },
+    {
+      "name": "ITIL Foundation Certified",
+      "issuer": "ITIL",
+      "type": "process"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Invertis Institute Of Engineering And Technology",
+      "degree": "Bachelor's Degree in Computer Science",
+      "duration": "2008 - 2012",
+      "type": "degree"
+    },
+    {
+      "institution": "Kendriya Vidyalaya",
+      "degree": "High School, Science Stream",
+      "duration": "2005 - 2008",
+      "type": "high_school"
+    }
+  ],
+  "languages": ["English", "Hindi"],
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#1e40af",
+    "accentColor": "#f59e0b",
+    "backgroundColor": "#0f172a",
+    "textColor": "#e2e8f0"
+  }
+}
